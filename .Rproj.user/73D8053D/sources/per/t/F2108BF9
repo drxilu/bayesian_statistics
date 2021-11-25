@@ -1,0 +1,32 @@
+{
+    "id": "F2108BF9",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1637273658319.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "datF",
+        "caption": "datF",
+        "totalObservations": "157",
+        "displayedObservations": "157",
+        "variables": "2",
+        "cacheKey": "B0FD66AA",
+        "object": "datF",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=datF&cache_key=B0FD66AA&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3548067076488918113,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1637273658319,
+    "read_only": false,
+    "read_only_alternatives": []
+}
